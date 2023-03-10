@@ -17,3 +17,5 @@
 # El jugador debe poder quedarse en su posición fija cuando no se presiona ningún botón.
 
 # Mucha suerte!
+
+#Juan José Rodriguez - A00362392
